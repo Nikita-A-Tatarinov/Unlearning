@@ -1,0 +1,12 @@
+name: unlearning
+channels:
+  - defaults
+dependencies:
+  - pip=24.2
+  - python=3.10
+  - pip:
+      - matplotlib==3.9.2
+      - numpy==2.1.3
+      - pandas==2.2.3
+      - scikit-learn==1.5.2
+      - transformers==4.46.2

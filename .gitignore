@@ -1,0 +1,6 @@
+**/__pycache__/
+SimPO/models/*
+SimPO/TOFU_data/*
+SimPO/outputs/*
+SimPO/eval_results/*
+
